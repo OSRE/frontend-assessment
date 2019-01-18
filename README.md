@@ -29,6 +29,6 @@ Create the SPA (Single Page Application) and follow the design closely. Make sur
 - A lot of bonus points for unit tests that are easy to run
 
 ### Links
-- (Sketch)[https://www.sketchapp.com/]
-- (LocalStorage api)[https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage]
-- (Linea icons)[http://www.linea.io/]
+- [Sketch](https://www.sketchapp.com/)
+- [LocalStorage api](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+- [Linea icons](http://www.linea.io/)
