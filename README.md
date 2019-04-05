@@ -16,7 +16,7 @@ Create the SPA (Single Page Application) and follow the design closely. Make sur
 4. Delete note
 
 ### Basic requirements/tips
-- Decide for yourself if you want to use a specific framework, and if so, which one you would like to use.
+- Decide for yourself if you want to use a specific framework, and if so, which one you would like to use (Angular, React, VueJS).
 - Notes doesn't have to be stored in a real database. Usage of localStorage is also allowed.
 - Use Git as version management control and publish the end result in a public repository. Be sure to create comprehensive commit messages!
 
